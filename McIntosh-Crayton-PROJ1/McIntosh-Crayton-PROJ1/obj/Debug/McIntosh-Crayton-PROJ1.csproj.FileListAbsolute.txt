@@ -1,0 +1,19 @@
+P:\MIS 4321\VSprojects\McIntosh-Crayton-PROJ1\McIntosh-Crayton-PROJ1\bin\Debug\McIntosh-Crayton-PROJ1.exe.config
+P:\MIS 4321\VSprojects\McIntosh-Crayton-PROJ1\McIntosh-Crayton-PROJ1\bin\Debug\McIntosh-Crayton-PROJ1.exe
+P:\MIS 4321\VSprojects\McIntosh-Crayton-PROJ1\McIntosh-Crayton-PROJ1\bin\Debug\McIntosh-Crayton-PROJ1.pdb
+P:\MIS 4321\VSprojects\McIntosh-Crayton-PROJ1\McIntosh-Crayton-PROJ1\obj\Debug\McIntosh-Crayton-PROJ1.csprojResolveAssemblyReference.cache
+P:\MIS 4321\VSprojects\McIntosh-Crayton-PROJ1\McIntosh-Crayton-PROJ1\obj\Debug\McIntosh_Crayton_PROJ1.VitalsForm.resources
+P:\MIS 4321\VSprojects\McIntosh-Crayton-PROJ1\McIntosh-Crayton-PROJ1\obj\Debug\McIntosh_Crayton_PROJ1.Properties.Resources.resources
+P:\MIS 4321\VSprojects\McIntosh-Crayton-PROJ1\McIntosh-Crayton-PROJ1\obj\Debug\McIntosh-Crayton-PROJ1.csproj.GenerateResource.Cache
+P:\MIS 4321\VSprojects\McIntosh-Crayton-PROJ1\McIntosh-Crayton-PROJ1\obj\Debug\McIntosh-Crayton-PROJ1.exe
+P:\MIS 4321\VSprojects\McIntosh-Crayton-PROJ1\McIntosh-Crayton-PROJ1\obj\Debug\McIntosh-Crayton-PROJ1.pdb
+P:\MIS 4321\VSprojects\McIntosh-Crayton-APP1\McIntosh-Crayton-PROJ1\McIntosh-Crayton-PROJ1\bin\Debug\McIntosh-Crayton-PROJ1.exe.config
+P:\MIS 4321\VSprojects\McIntosh-Crayton-APP1\McIntosh-Crayton-PROJ1\McIntosh-Crayton-PROJ1\obj\Debug\McIntosh-Crayton-PROJ1.exe
+P:\MIS 4321\VSprojects\McIntosh-Crayton-APP1\McIntosh-Crayton-PROJ1\McIntosh-Crayton-PROJ1\obj\Debug\McIntosh-Crayton-PROJ1.pdb
+C:\Users\craytontosh\Downloads\McIntosh-Crayton-APP1\McIntosh-Crayton-APP1\McIntosh-Crayton-PROJ1\McIntosh-Crayton-PROJ1\bin\Debug\McIntosh-Crayton-PROJ1.exe.config
+C:\Users\craytontosh\Downloads\McIntosh-Crayton-APP1\McIntosh-Crayton-APP1\McIntosh-Crayton-PROJ1\McIntosh-Crayton-PROJ1\obj\Debug\McIntosh-Crayton-PROJ1.exe
+C:\Users\craytontosh\Downloads\McIntosh-Crayton-APP1\McIntosh-Crayton-APP1\McIntosh-Crayton-PROJ1\McIntosh-Crayton-PROJ1\obj\Debug\McIntosh-Crayton-PROJ1.pdb
+C:\Users\craytontosh\Downloads\McIntosh-Crayton-APP1\McIntosh-Crayton-APP1\McIntosh-Crayton-PROJ1\McIntosh-Crayton-PROJ1\obj\Debug\McIntosh-Crayton-PROJ1.csprojResolveAssemblyReference.cache
+C:\Users\craytontosh\Downloads\McIntosh-Crayton-APP1\McIntosh-Crayton-APP1\McIntosh-Crayton-PROJ1\McIntosh-Crayton-PROJ1\obj\Debug\McIntosh_Crayton_PROJ1.VitalsForm.resources
+C:\Users\craytontosh\Downloads\McIntosh-Crayton-APP1\McIntosh-Crayton-APP1\McIntosh-Crayton-PROJ1\McIntosh-Crayton-PROJ1\obj\Debug\McIntosh_Crayton_PROJ1.Properties.Resources.resources
+C:\Users\craytontosh\Downloads\McIntosh-Crayton-APP1\McIntosh-Crayton-APP1\McIntosh-Crayton-PROJ1\McIntosh-Crayton-PROJ1\obj\Debug\McIntosh-Crayton-PROJ1.csproj.GenerateResource.Cache
